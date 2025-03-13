@@ -1,0 +1,16 @@
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+
+}
+
+body {
+    background-color: rgb(245, 220, 239);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ 
